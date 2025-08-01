@@ -5,7 +5,7 @@ import random
 
 def example_pass_breaker():
 
-    with open("My_Projects/passcracker/example_pass.txt", "r") as file:
+    with open("Github/rASCIndomizer/passcracker/example_pass.txt", "r") as file:
         mpass = file.read()
     i = 1
     chars = ["a", "b", "c"]
